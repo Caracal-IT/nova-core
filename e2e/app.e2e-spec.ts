@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('nova-core App', () => {
+describe('nova-core-lib App', () => {
   let page: AppPage;
 
   beforeEach(() => {
